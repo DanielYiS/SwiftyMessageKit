@@ -1,1 +1,1 @@
-# SwiftVideoKit
+# SwiftyMessageKit
